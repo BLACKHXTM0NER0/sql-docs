@@ -9,7 +9,7 @@ ms.subservice: system-objects
 ms.topic: "reference"
 f1_keywords:
   - "xp_cmdshell"
-  - "xp_cmdshell_TSQL"
+  - "xpcmdshell_TSQL"
 helpviewer_keywords:
   - "xp_cmdshell"
 dev_langs:
